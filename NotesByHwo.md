@@ -7,6 +7,10 @@ View Raw
 
 <hr>
 
+* https://www.diigo.com/user/hanswobbe/b/404034412
+
+<hr>
+
 * try using Issues as mutual Intensions reminders
 * Until there is an obvious benefit, don't bother structuring the /hwo/... folder & files.
 * ①/㊿ repos that have/use this naming system aid in migrating content.
