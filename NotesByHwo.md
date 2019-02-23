@@ -1,3 +1,4 @@
+* try using Issues as mutual Intensions reminders
 * Until there is an obvious benefit, don't bother structuring the /hwo/... folder & files.
 * ①/㊿ repos that have/use this naming system aid in migrating content.
 * I thought I could not edit README, perhaps due to permissions for that particular file, within this repo.
