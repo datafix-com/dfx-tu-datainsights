@@ -1,6 +1,6 @@
 * implement Curbside tables
 * ...
-* working in this repo seems to elevate ots position in the RC display
+* working in this repo seems to elevate ots position in the 'your reps' RC display
 * access to Charter.docx is blocked by ...
 
 View Raw
