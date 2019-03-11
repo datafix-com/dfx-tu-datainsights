@@ -1,12 +1,12 @@
 * implement Curbside tables
 * ...
-* working in this repo seems to elevate ots position in the 'your reps' RC display
+* working in this repo seems to elevate its position in the 'your reps' RC display
 * access to Charter.docx is blocked by ...
 
 View Raw
 (Sorry about that, but we can’t show files that are this big right now.)
 
-* ask about this since it may help resonvle the TW5 issue.
+* ask about this since it may help resovle the TW5 issue.
 * but a download cmd is offered
 * ...
 
