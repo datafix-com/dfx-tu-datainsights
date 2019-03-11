@@ -13,6 +13,7 @@ View Raw
 <hr>
 
 * https://www.diigo.com/user/hanswobbe/b/404034412
+* can be a step in the MicroContent cascade
 
 <hr>
 
