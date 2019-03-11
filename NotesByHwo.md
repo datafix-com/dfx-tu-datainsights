@@ -19,7 +19,7 @@ View Raw
 
 <hr>
 
-* work in this repo, to the extent possible, since ot should emerge as the mor4e useful environment
+* work in this repo, to the extent possible, since ot should emerge as the more useful environment
 * try using Issues as mutual Intensions reminders
 * Until there is an obvious benefit, don't bother structuring the /hwo/... folder & files.
 * I thought I could not edit README, perhaps due to permissions for that particular file, within this repo.
