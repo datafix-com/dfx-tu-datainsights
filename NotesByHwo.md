@@ -1,5 +1,6 @@
 * implement Curbside tables
 * ...
+* working in this file seems to elevate the repo in the RC display
 * access to Charter.docx is blocked by ...
 
 View Raw
