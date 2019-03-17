@@ -1,5 +1,5 @@
 * implement Curbside tables
-* working in this repo seems to elevate its position in the 'your reps' RC display
+* * relocate the lower-level details
 * access to Charter.docx is blocked by ...
 
 View Raw
