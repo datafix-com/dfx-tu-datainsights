@@ -1,5 +1,6 @@
-* implement Curbside tables
+* implement Curbside tables via WkH
 * * relocate the lower-level details
+* * Excel can be used to create the proposed Table structures
 * access to Charter.docx is blocked by ...
 
 View Raw
