@@ -1,7 +1,9 @@
 * It should be easy to build the JSON structures that Els needs.
 * * It should be possible to nest these is ways that miniize development, at least for the proposed Demos.
 
-* implement Curbside tables via WkH
+* implement Curbside tables as JSON structures
+* * it should be possible to use a 2 level nesting
+* suggest we realase a demo version to the community
 * * relocate the lower-level details
 * * Excel (or perhaps Access ??) can be used to create the proposed Table structures
 * * currently "stalled"
