@@ -1,5 +1,5 @@
 * It should be easy to build the JSON structures that Els needs.
-** It should be possible to nest these is ways that miniize development, at least for the proposed Demos.
+* * It should be possible to nest these is ways that miniize development, at least for the proposed Demos.
 
 * implement Curbside tables via WkH
 * * relocate the lower-level details
