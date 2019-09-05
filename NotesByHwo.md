@@ -3,7 +3,8 @@
 
 * implement Curbside tables as JSON structures
 * * it should be possible to use a 2 level nesting
-* suggest we realase a demo version to the community
+* discuss the suggestion that we realase a demo version to the community
+* * perhaps simple subWikis could be created that simple report forSale signs
 * * relocate the lower-level details
 * * Excel (or perhaps Access ??) can be used to create the proposed Table structures
 * * currently "stalled"
