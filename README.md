@@ -2,7 +2,6 @@
 DataFix TransUnion Data Insights project
 
 * ...
-* * ...
 * try IttyBitty, via Twitter for these.  Link to Private repos, DiigoH too
 * * add a link to one of the other branchSites ( junctionsT )
 * consider using an AWS container for the JSON objects to send to Els
