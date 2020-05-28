@@ -2,6 +2,9 @@
 DataFix TransUnion Data Insights project
 
 * 2020.05.28: Electoral CEOs share the view that CoVid19 may dramatically alter Voting
+* * the need for a "fouth" Data source is widely accepted
+* * * effective collaboration with be challenging given the inevitable P.E.S.T concerns
+* * * * Tripartite solutions are sensible, but have not yet gained trackion
 * * minutes within 1 week
 * * next Discussion in two weeks
 
