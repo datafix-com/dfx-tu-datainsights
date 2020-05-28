@@ -1,7 +1,9 @@
 # ① dfx-tu-datainsights
 DataFix TransUnion Data Insights project
 
-* Electoral CEOs share the view that CoVid19 may dramatically alter Voting
+* 2020.05.28: Electoral CEOs share the view that CoVid19 may dramatically alter Voting
+** minutes within 1 week
+** next Discussion in two weeks
 
 <hr>
 
