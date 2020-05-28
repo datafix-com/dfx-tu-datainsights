@@ -1,6 +1,10 @@
 # ① dfx-tu-datainsights
 DataFix TransUnion Data Insights project
 
+* Electoral CEOs share the view that CoVid19 may dramatically alter Voting
+
+<hr>
+
 * document MBO committments
 * try IttyBitty, via Twitter for these.  Link to Private repos, DiigoH too
 * * add a link to one of the other branchSites ( junctionsT )
