@@ -2,8 +2,8 @@
 DataFix TransUnion Data Insights project
 
 * 2020.05.28: Electoral CEOs share the view that CoVid19 may dramatically alter Voting
-** minutes within 1 week
-** next Discussion in two weeks
+* * minutes within 1 week
+* * next Discussion in two weeks
 
 <hr>
 
