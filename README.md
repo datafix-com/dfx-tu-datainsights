@@ -1,6 +1,8 @@
 # ① dfx-tu-datainsights
 DataFix TransUnion Data Insights project
 
+* 2021.01.07: suggest Warren re-familiarize himself with the TU intercasca and utilities that he took over from George
+** This could be a Kfw opportunity
 * 2020.05.28: Electoral CEOs share the view that CoVid19 may dramatically alter Voting
 * * the need for a "fouth" Data source is widely accepted
 * * * effective collaboration with be challenging given the inevitable P.E.S.T concerns
