@@ -3,6 +3,7 @@ DataFix TransUnion Data Insights project
 
 # 2022-05-
 * approach this as a RFP 
+* frequent edits will ensure proper PRs are evenetually used to refactor the branches that resulted from the Master>Main conversion(s)
 
 # Tp:
 * 2021.06.26: Considering how this initiative might resume, given other resources.
