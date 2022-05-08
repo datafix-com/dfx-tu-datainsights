@@ -4,6 +4,7 @@ DataFix TransUnion Data Insights project
 # 2022-05-
 * approach this as a RFP 
 * * engagement discussions should start mid-June
+* * * stress this should have a TrainingWheels scope as a way of establishing initial Trust 
 * frequent edits will ensure proper PRs are evenetually used to refactor the branches that resulted from the Master>Main conversion(s)
 
 # Tp:
