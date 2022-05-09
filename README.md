@@ -8,6 +8,7 @@ DataFix TransUnion Data Insights project
 * frequent edits will ensure proper PRs are evenetually used to refactor the branches that resulted from the Master>Main conversion(s)
 * * a binary approve/decline (weighted) indicator per Card use should be useful
 * craft a "library' repo that can be fed via PRs
+* refine the Pob ... Por chain
 
 # Tp:
 * 2021.06.26: Considering how this initiative might resume, given other resources.
