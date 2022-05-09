@@ -6,6 +6,7 @@ DataFix TransUnion Data Insights project
 * * engagement discussions should start mid-June
 * * * stress this should have a TrainingWheels scope as a way of establishing initial Trust 
 * frequent edits will ensure proper PRs are evenetually used to refactor the branches that resulted from the Master>Main conversion(s)
+* * a binary approve/decline (weighted) indicator per Card use should be useful
 
 # Tp:
 * 2021.06.26: Considering how this initiative might resume, given other resources.
